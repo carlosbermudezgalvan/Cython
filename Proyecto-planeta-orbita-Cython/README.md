@@ -1,4 +1,4 @@
-#**Proyecto: Medida de rendimiento cython/python: Problema Planeta en Orbita**
+# **Proyecto: Medida de rendimiento cython/python: Problema Planeta en Orbita**
 **Autor:**
  Carlos Mario Bermúdez Galván
 
