@@ -2,14 +2,14 @@
 **Autor:**
  Carlos Mario Bermúdez Galván
 
-###**Contexto de experimentación:**
+### **Contexto de experimentación:**
 
 *   Se tiene un archivo orbita_py.py el cual calcula la orbita de un planeta dado sus argumentos.
 *   Se adapto el archivo .py a Cython para mejorar su rendimiento
 *   Se creó un archivo principal.py donde se ejecutaron ambos programas con los mismos parametros (planeta tierra), Los argumentos necesarios fueron tomados de Wikipedia.
 *   En principal.py se formatean los datos que arrojan los programas (tiempos de ejecución) para posteriormente realizar la comparativa de rendimiento).
 
-###**Pasos para replicar o llevar a cabo la ejecución**
+### **Pasos para replicar o llevar a cabo la ejecución**
 *   Primeramente se clona el repositorio o se descarga el ZIP, en caso de descargar el ZIP descomprimirlo en un directorio exclusivamente para ello.
 
 *   Abrir la consola de su distribución de Linux y entrar al directorio donde se extrajeron los archivos.
