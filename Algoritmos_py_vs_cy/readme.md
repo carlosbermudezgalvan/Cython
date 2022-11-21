@@ -1,8 +1,8 @@
-#Medida de rendimiento cython/python:
+# Medida de rendimiento cython/python:
 Autor:
  Carlos Mario Bermúdez Galván
 
-##Contexto de experimentación:
+## Contexto de experimentación:
 
 *   Se requiere comparar el rendimiendo de dos algoritmos en dos lenguajes de programación: Cython y Python.
 *   Para ello se escogieron dos algoritmos de ordenamiento, bubble sort y el merge sort.
@@ -12,7 +12,7 @@ Autor:
 *   Luego crear un archivo main.py (en el presente caso se llamó principal.py), en donde se ejecutará el algoritmo en ambos lenguaje y se registraran los tiempos de ejecución en un archivo .csv
 *   Sin embargo antes de ejecutar el experimento (principal.py), debe compilarse el archivo .pyx (Cython), para ello es necesario el MakeFile y el setup.py.
 
-###Pasos para replicar o llevar a cabo la ejecución
+## Pasos para replicar o llevar a cabo la ejecución
 *   Primeramente se clona el repositorio o se descarga el ZIP, en caso de descargar el ZIP descomprimirlo en un directorio exclusivamente para ello.
 
 *   Abrir la consola de su distribución de Linux y entrar al directorio donde se extrajeron los archivos.
